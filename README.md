@@ -1,3 +1,5 @@
+## Shamelessly stolen from @Fildo7525 and changed a bit for verilog/vdhl :)
+
 # nvimLua
 
 <h2>Compatibility</h2>
