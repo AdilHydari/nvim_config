@@ -18,7 +18,7 @@ local servers = {
 }
 
 local settings = {
-	ensure_installed = {},
+	ensure_installed = {"c", "lua", "rust", "verilog" },
 	automatic_installation = false,
 	ui = {
 		icons = {

@@ -17,7 +17,7 @@ return {
 	-- dependencies
 	"nvim-lua/popup.nvim", -- An implementation of the Popup API from vim in Neovim
 	"nvim-lua/plenary.nvim", -- Useful lua functions used ny lots of plugins
-	"Fildo7525/reloader.nvim",
+	"milkias17/reloader.nvim",
 
 	-- colour scheme
 	"sheerun/vim-polyglot",
@@ -74,7 +74,7 @@ return {
 	{
 		'nvim-telescope/telescope.nvim',
 		tag = '0.1.4',
-		dependencies = { 'nvim-lua/plenary.nvim', 'Fildo7525/reloader.nvim' },
+		dependencies = { 'nvim-lua/plenary.nvim', 'milkias17/reloader.nvim' },
 	},
 	"BurntSushi/ripgrep",
 
